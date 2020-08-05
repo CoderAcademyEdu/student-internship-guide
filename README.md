@@ -1,1 +1,1 @@
-# student-internship-guide
+# Student Internship Guide
